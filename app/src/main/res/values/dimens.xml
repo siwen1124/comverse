@@ -1,0 +1,15 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="text_m">15sp</dimen>
+    <dimen name="text_l">20sp</dimen>
+
+    <dimen name="margin_xs">5dp</dimen>
+    <dimen name="margin_s">10dp</dimen>
+    <dimen name="margin_l">15dp</dimen>
+    <dimen name="margin_xxxl">100dp</dimen>
+
+    <dimen name="list_item_bullet_size">80dp</dimen>
+
+    <dimen name="circular_list_radius">200dp</dimen>
+    <dimen name="circular_list_center_x">-100dp</dimen>
+</resources>

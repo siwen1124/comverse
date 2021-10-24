@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="yellow">#FFC107</color>
+
+    <color name="comicLightBlue">#1b729f</color>
+    <color name="comicDarkBlue">#1a323e</color>
+    <color name="comicDarkRed">#902724</color>
+    <color name="comicLightRed">#f23c27</color>
+    <color name="comicYellow">#f7d281</color>
+</resources>

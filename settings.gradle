@@ -1,0 +1,3 @@
+include ':circular-layout-manager'
+include ':app'
+rootProject.name='ComicWiki'
